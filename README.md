@@ -15,13 +15,10 @@ Developing modern Flutter applications with Firebase integration, clean UI, and 
 Exciting mobile and desktop application projects, especially Flutter-based apps and creative software solutions.<br><br>
 🤝 I’m looking for help with:<br>
 Advanced Flutter architecture, performance optimization, and scalable backend integration.<br><br>
-
 🌱 I’m currently learning:<br>
 Advanced Flutter techniques, Clean Architecture, API integration, MVVM patterns, and cross-platform best practices.<br><br>
-
 💬 Ask me about:<br>
 Flutter, Firebase, Dart, Java, APIs, UI/UX, and mobile app performance optimization.<br><br>
-
 ⚡ Fun fact:<br>
 When I’m not coding, I enjoy exploring new technologies, app ideas, and modern UI inspirations.
 
