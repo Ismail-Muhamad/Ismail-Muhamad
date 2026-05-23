@@ -9,13 +9,10 @@
 # 💫 About Me:
 About Me:<br>
 👋 Hi, I'm Ismail Muhamad, a passionate Flutter Developer with a strong interest in mobile app development and software engineering.<br><br>
-
 🔭 I’m currently working on:<br>
 Developing modern Flutter applications with Firebase integration, clean UI, and optimized performance.<br><br>
-
 👯 I’m looking to collaborate on:<br>
 Exciting mobile and desktop application projects, especially Flutter-based apps and creative software solutions.<br><br>
-
 🤝 I’m looking for help with:<br>
 Advanced Flutter architecture, performance optimization, and scalable backend integration.<br><br>
 
